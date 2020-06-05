@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "215139518869",
+    "firebase_url": "https://screamer-app.firebaseio.com",
+    "project_id": "screamer-app",
+    "storage_bucket": "screamer-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215139518869:android:cba6f6ab9dba1cf76e0e9c",
+        "android_client_info": {
+          "package_name": "com.example.easylearn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215139518869-rbuluh1p3o4ropiu8gitmrb7skacblgg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlO8WCwZR8J5BiNBCjHwzMwJRWNh7bntY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215139518869-rbuluh1p3o4ropiu8gitmrb7skacblgg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
